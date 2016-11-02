@@ -1,7 +1,14 @@
+body{
+    background: #009DBB;
+    text-align: center;
+}
 .red-text {
     color: red;
 }
 
 .big-font{
-    font-size: 250px;
+    font-size: 40px;
+}
+.title{
+    font-size: 50px;
 }
